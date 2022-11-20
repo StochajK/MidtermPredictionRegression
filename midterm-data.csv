@@ -1,5 +1,4 @@
-,,,,President's Job Approval Percentage (Gallup) As of:,,,,,,President's Party,,"Seat Change, President's Party",
-Year,Lame Duck? ,President,President's party,Early Aug ,Late Aug ,Early Sep ,Late Sep ,Early Oct ,Late Oct ,House Seats to defend,Senate Seats to defend,House Seats ,Senate Seats 
+ï»¿Year,Lame Duck?,President,President's party,Approval Early Aug,Approval Late Aug,Approval Early Sep,Approval Late Sep,Approval Early Oct,Approval Late Oct,House Seats to defend,Senate Seats to defend,"Seat Change, House Seats","Seat Change, Senate Seats"
 1934,,Franklin D. Roosevelt,D,--,--,--,--,--,--,313,14,9,9
 1938,,Franklin D. Roosevelt,D,--,--,--,--,--,60,334,27,-81,-7
 1942,,Franklin D. Roosevelt,D,74,--,74,--,--,--,267,25,-46,-9
@@ -8,9 +7,9 @@ Year,Lame Duck? ,President,President's party,Early Aug ,Late Aug ,Early Sep ,Lat
 1954,,Dwight D. Eisenhower,R,67,62,--,66,62,--,221,11,-18,-1
 1958,LD,Dwight D. Eisenhower,R,58,56,56,54,57,--,203,20,-48,-13
 1962,,John F. Kennedy,D,--,67,--,63,--,61,264,18,-4,3
-1966, ,Lyndon B. Johnson,D,51,47,--,--,44,44,295,21,-47,-4
+1966,â€ ,Lyndon B. Johnson,D,51,47,--,--,44,44,295,21,-47,-4
 1970,,Richard Nixon,R,55,55,57,51,58,--,192,7,-12,2
-1974,±,Gerald R. Ford (Nixon) ,R,71,--,66,50,53,--,192,15,-48,-5
+1974,Â±,Gerald R. Ford (Nixon) ,R,71,--,66,50,53,--,192,15,-48,-5
 1978,,Jimmy Carter,D,43,43,48,--,49,45,292,14,-15,-3
 1982,,Ronald Reagan,R,41,42,--,42,--,42,192,12,-26,1
 1986,LD,Ronald Reagan,R,--,64,--,63,64,--,181,22,-5,-8
